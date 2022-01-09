@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schmidt123420 or Matt Schmidt
+- 👋 Hi, I’m Matt Schmidt
 - 👀 I’m interested in learning as much as I can about computer science and how it can be used to make the world a better place
 - 🌱 I’m currently learning software engineering principles and data structures
 - 💞️ I’m looking to collaborate on any interesting projects, but especially on anything related to the environment or sustainability
